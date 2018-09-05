@@ -15,7 +15,7 @@ $ npm install or yarn add
 
 **Navegação**
 
-A biblioteca usada para a navegação foi a [React Navigation V2] (https://github.com/react-navigation/react-navigation) usando o StackNavigator.
+A biblioteca usada para a navegação foi a [React Navigation V2](https://github.com/react-navigation/react-navigation) usando o StackNavigator.
 
 Na pasta ``` src/screens ``` temos as páginas disponíveis no aplicativo que são 
 
