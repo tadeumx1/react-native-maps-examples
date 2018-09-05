@@ -22,7 +22,9 @@ Na pasta ``` src/screens ``` temos as páginas disponíveis no aplicativo que s�
 ``` MapScreen.js ``` nessa página temos um MapView com um Callout onde você pode alterar o lugar dele pelo clique do mouse
 
 ``` MapScreenCallout.js ``` nessa página você temos um MapView onde você pode com o clique do mouse adicionar vários Callouts pelo mapa
+
 ``` MapScreenPlaces.js ``` nessa página temos um MapView e um container para mostrar as informações de lugares espalhados em pontos no mapa
+
 ``` MapScreenRoutes.js ``` nessa página temos um MapView onde você, pode informar o local de origem e destino e por meio da biblioteca [React Native Geocoding] (https://github.com/marlove/react-native-geocoding) o endereço que foi digitado é transformado em coodernadas e elas são colocadas no mapa.
 
 Para configurar e rodar o aplicativo e para em seus emuladores basta usar
