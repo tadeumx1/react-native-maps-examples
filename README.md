@@ -1,6 +1,7 @@
 # react-native-maps-examples
 
 A aplicação, feita em React Native, serve para mostrar exemplos de uso da biblioteca [React Native Maps](https://github.com/react-community/react-native-maps)
+
 A aplicação aborda todos os aspectos simples de um aplicativo que a Google Maps API, como o uso de Markers, Callouts, Directions e Rotas no mapa.
 
 ## Configurando
